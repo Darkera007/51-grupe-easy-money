@@ -13,7 +13,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-darkera007.github.io/51-grupe-easy-money/
+Site published at: https://darkera007.github.io/51-grupe-easy-money/
 
 Design:
 
