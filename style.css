@@ -139,3 +139,10 @@ i{
     border: 1px solid lightgray;
 }
 
+footer{
+    text-align: right;
+    background-color: #f8fbfb;
+    padding: 25px;
+    font-weight: 500;
+  
+}
