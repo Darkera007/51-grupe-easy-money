@@ -5,14 +5,18 @@
 
 
 img{
-    width: 100%;
+    width: 600px;
+    height: 600px;
+    margin-left: 200px;
+    margin-top: -90px;
 }
 
 
 .logo{
       height: 70px;
       width: 210px;
-      margin-left: 50px;
+      margin: 0;
+      margin-left: 80px;
 }
 
 .menu{
@@ -40,7 +44,7 @@ background-color: #333333;
 border-radius: 12px;
 text-align: center;
 margin-top: 12px;
-margin-bottom: 12px;
+margin-bottom: 8px;
 font-weight: 600;
 margin-right: 50px;
 }
@@ -57,15 +61,10 @@ background-color: #f8fbfb;
 }
 
 
-.container{
-display: flex;
-
-}
-
 
 h1{
     font-weight: 900;
-    font-size: 50px;
+    font-size: 4rem;
     font-family: helvetica;
 
 }
@@ -75,10 +74,67 @@ h1{
     color: #1e78f0;
 }
 
-section:nth-child(1){
-    width: 800px;
-    margin-left: calc(50% - 400px);
-    background-color: blue;
+
+
+.container{
+ margin: 0 100px;
+    display: flex;
+
+}
+
+.lygiuote-get{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+i{
+    color: rgb(102, 224, 102);
+}
+
+.get-text{
+    font-weight: 300;
+    margin-left: 0.5rem;
+    color: #afc3e5;
+    font-size: 12px;
+  
+}
+
+.text-gray {
+    color: #98aacc;
+    font-size: 1rem;
+}
+
+.m{
+  margin-top: 50px; 
+}
+
+.m-2{
+    margin-top: 100px;
 }
 
 
+.m-3{
+    margin-top: 150px;
+}
+
+
+.main-kaire {
+    margin-right: 200px;
+}
+
+.button-1{
+    color: #fff;
+    background-color: #1e78f0;
+    border-radius: 10px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+
+}
+
+.button-2{
+    color: #333333;
+    background-color: #fff;
+    border: 1px solid lightgray;
+}
