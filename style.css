@@ -5,9 +5,9 @@
 
 
 img{
-    width: 600px;
-    height: 600px;
-    margin-left: 200px;
+    width: calc(1.5*600px);
+    height: calc(1.5*600px);
+    margin-left: calc(1.5*200px);
     margin-top: -90px;
 }
 
@@ -16,7 +16,7 @@ img{
       height: 70px;
       width: 210px;
       margin: 0;
-      margin-left: 80px;
+      margin-left: 100px;
 }
 
 .menu{
@@ -39,11 +39,11 @@ img{
 .button{
 text-decoration: none;
 color: #fff;
-padding: 4px 30px;
+padding: 6px 45px;
 background-color: #333333;
 border-radius: 12px;
 text-align: center;
-margin-top: 12px;
+margin-top: 15px;
 margin-bottom: 8px;
 font-weight: 600;
 margin-right: 50px;
@@ -64,7 +64,7 @@ background-color: #f8fbfb;
 
 h1{
     font-weight: 900;
-    font-size: 4rem;
+    font-size: calc(1.5*4rem);
     font-family: helvetica;
 
 }
@@ -96,13 +96,13 @@ i{
     font-weight: 300;
     margin-left: 0.5rem;
     color: #afc3e5;
-    font-size: 12px;
+    font-size: 18px;
   
 }
 
 .text-gray {
     color: #98aacc;
-    font-size: 1rem;
+    font-size: calc(1.5*1rem);
 }
 
 .m{
@@ -127,7 +127,7 @@ i{
     color: #fff;
     background-color: #1e78f0;
     border-radius: 10px;
-    padding: 10px 20px;
+    padding: 15px 30px;
     border: none;
     cursor: pointer;
 
@@ -138,3 +138,4 @@ i{
     background-color: #fff;
     border: 1px solid lightgray;
 }
+
