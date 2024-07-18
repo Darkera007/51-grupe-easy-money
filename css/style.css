@@ -127,9 +127,10 @@ i{
     color: #fff;
     background-color: #1e78f0;
     border-radius: 10px;
-    padding: 15px 30px;
+    padding: 30px 45px;
     border: none;
     cursor: pointer;
+    font-size: 20px;
 
 }
 
@@ -230,4 +231,47 @@ padding-bottom: 25px;
 
 .trio-block .text-3 {
     color: #b9b2c8;
+}
+
+.brand-list{
+    display: flex;
+    gap: 30px;
+    border-bottom: 2px solid #d1d6e0;
+
+}
+
+.brand-list img{
+    width: 250px;
+    height: 100px;
+    
+}
+
+body{
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.main-footer{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+
+.main-footer i{
+    color: #afc3e5;
+    margin-right: 25px;
+}
+
+.main-footer p{
+    color: #000000;
+    margin-right: 25px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+
+.m-6{
+    margin: 200px 0;
 }
