@@ -43,10 +43,11 @@ padding: 6px 45px;
 background-color: #333333;
 border-radius: 12px;
 text-align: center;
-margin-top: 15px;
+margin-top: 10px;
 margin-bottom: 8px;
 font-weight: 600;
 margin-right: 50px;
+font-size: 22px;
 }
 
 .main-nav a{
@@ -274,4 +275,9 @@ body{
 
 .m-6{
     margin: 200px 0;
+}
+
+.crazy{
+    color: red;
+    border: 5px solid red;
 }
