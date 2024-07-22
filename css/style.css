@@ -160,6 +160,7 @@ color: #fff;
     border: none;
     cursor: pointer;
     font-size: 20px;
+    font-weight: 800;
 
 }
 
@@ -271,6 +272,7 @@ padding-bottom: 25px;
     background-color: #704264;    ;
     border-bottom: 2px solid #bb8493;
     border-top: 2px solid #bb8493;
+    padding: 25px 0;
 
 
 }
@@ -300,7 +302,7 @@ background: linear-gradient(90deg, rgba(73,36,62,1) 20%, rgba(112,66,100,1) 40%,
 }
 
 .main-footer i{
-    margin-top: 15px;
+    margin-top: 12px;
     color: #bb8493;
     margin-right: 25px;
 }
