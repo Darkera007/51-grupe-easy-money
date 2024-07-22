@@ -271,6 +271,7 @@ padding-bottom: 25px;
     border-bottom: 2px solid #bb8493;
     border-top: 2px solid #bb8493;
     padding: 25px 0;
+    text-align: center;
 
 
 }
@@ -278,8 +279,6 @@ padding-bottom: 25px;
 .brand-list img{
     width: 40%;
     height: 40%;
-   margin-left: 750px;
-   border: 500px red;
 
     
 }
