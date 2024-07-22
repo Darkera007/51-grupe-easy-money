@@ -300,6 +300,7 @@ background: linear-gradient(90deg, rgba(73,36,62,1) 20%, rgba(112,66,100,1) 40%,
 }
 
 .main-footer i{
+    margin-top: 15px;
     color: #bb8493;
     margin-right: 25px;
 }
