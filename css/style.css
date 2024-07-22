@@ -43,15 +43,13 @@
 }
 
 .active:after{
-content: '';
-background-color: #1e78f0;
-transform: translateX(-50%);
-width: 10px;
-height: 10px;
-left: 50%;
-bottom: -10px;
-position: absolute;
-border-radius: 50%;
+    border-bottom: 5px solid #704264;
+    content: '';
+    position: absolute;
+    right: 1301px;
+    width: 40px;
+    bottom: 10px;
+    margin: 0 auto;
 }
 
 .button{
@@ -79,6 +77,7 @@ font-size: 22px;
 display: flex;
 justify-content: space-between;
 background-color: #dbafa0;
+position: relative;
 }
 
 
